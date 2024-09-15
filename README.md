@@ -8,7 +8,8 @@
 - OneMapAPI : [Reverse Geocode (For further exploration)](https://www.onemap.gov.sg/apidocs/apidocs/#reverseGeocode)
 
 
-### **Methods** 
+
+### **Methods:** 
 - Extract data via: API and CSV file
 - Libraries used: Requests, Pandas, Numpy, Matplotlib.pyplot, sqlalchemy
 - Transform/clean data using pandas
