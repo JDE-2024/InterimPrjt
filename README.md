@@ -1,14 +1,14 @@
 # Junior Data Engineer Programme - Interim Project 
 ## Bicycles : Betcycle of 3 : How bicycle friendly is your neighbourhood? 
 
-**Data Source:** 
+### **Data Source:** 
 - LTA Mall : [bike parking API](https://datamall.lta.gov.sg/content/datamall/en.html)
 - 99.co : Information on District, Area, first 2 Digits of Postal Code 
 - Kaggle :  [Singapore Postal codes, latitude, longitudes](https://www.kaggle.com/datasets/mylee2009/singapore-postal-code-mapper)
 - OneMapAPI : [Reverse Geocode (For further exploration)](https://www.onemap.gov.sg/apidocs/apidocs/#reverseGeocode)
 
 
-**Methods** 
+### **Methods** 
 - Extract data via: API and CSV file
 - Libraries used: Requests, Pandas, Numpy, Matplotlib.pyplot, sqlalchemy
 - Transform/clean data using pandas
