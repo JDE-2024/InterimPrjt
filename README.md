@@ -37,4 +37,5 @@
     - API limit handling required due to 250calls/min limit
     - Transform results to obtain first 2 digits of postalcode 
     - Load into PostgreSQL (local host)
-  
+
+> Note: More info in our [presentation](https://github.com/JDE-2024/InterimPrjt/blob/main/Presentation-Betcycles%20of%203.pdf) 
