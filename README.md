@@ -33,7 +33,7 @@
     - Objective 3: Which area has more bus stops with bicycle parking facilities compared to Central District (1-4 & 6-9).
 
 
-4. OneMap API (alternative to using Kaggle)
+4. OneMap API (alternative to using Kaggle) -- WIP for further exploration
     - Used OneMap reverse geocode API to obtain postal codes by looping bike data latitude and longitude. 
     - API limit handling required due to 250calls/min limit
     - Transform results to obtain first 2 digits of postalcode 
